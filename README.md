@@ -62,7 +62,3 @@ Final Model: 📈 The Random Forest model was selected based on macro F1-score p
 - scikit-learn
 - imbalanced-learn
 
-Install them using:
-
-```bash
-pip install -r requirements.txt
